@@ -20,9 +20,9 @@ Technologies Used
 
 
 Usage
-* Adding a Task: Click on the "+" button and enter the task details.
-* Deleting a Task: Click on the delete icon next to the task.
-* Marking a Task as Completed: Check the checkbox next to the task.
+* Adding a Task: Enter the task details,click on the "Add" button to add the task to list.
+* Deleting a Task: Click on the "X" icon next to the task to delete the task.
+* Marking a Task as Completed: Check the checkbox next to the task to mark as completed.
 
 
 Contributing
